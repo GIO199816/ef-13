@@ -1,0 +1,74 @@
+body{background-image: url(../img/fotolia-92027264european-day-forest-green-forest.jpg);
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+*{
+    box-sizing: border-box;
+}
+.form{background-image: url(../img/envelope-open-1-1183193.png);
+    width: 460px;
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: all .9s;
+}
+.from:hover{
+    background-position: 50% -40%;
+    
+}
+.form-row{display: flex;
+}
+.form-row .form-group,.form-group  {color: #fff;
+    font-weight: bold;
+    padding: 0 7px;
+}
+.form-group input, .form-group textarea{width: 100%;
+    padding: 6px 0;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background-color: transparent;
+}
+textarea{
+    border-radius: 3px;
+    border: 1px solid #fff  !important;
+}
+.form-group input:focus{
+    outline: none;
+    background-color: white;
+}
+.login{
+background-color:rgb(74, 112, 240) ;
+padding: 30px;
+border-radius: 8px;
+transition: all .9s;
+}
+label{
+    padding: 7px 0;
+    display: inline-block;
+}
+.btn{
+    padding: 12px;
+    width: 100%;
+    background-color: #fff;
+    border: none;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+.login:hover{
+    background-color: rgba(7, 15, 131, 0.377);
+    border-radius: 50PX ;
+
+}
+.btn:active{
+    background-color: rgb(15, 15, 216);
+}
+.login{
+width: 100;
+margin: 0;
+}

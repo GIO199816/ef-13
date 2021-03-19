@@ -1,0 +1,68 @@
+body{
+    width: 0;
+    height: 0;
+}
+.conteiner{
+    background-color:#24303c ;
+    width: 450px;
+    height: 450px;
+  margin-left: 600px;
+  margin-top: 300px;
+  box-shadow: 0 10px 15px rgba(3, 8, 8, 0.438);
+border-radius: 5px;}
+.box{
+    margin-left: 15px;
+}
+
+.box1{
+    
+    padding: 15px;
+    
+}
+.submit{
+    height: 40px;
+    width: 200px;
+    background-color:#1ab188 ;
+    border-radius: 5px;
+}
+.inp{
+    height: 25px;
+    height: 30px;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.021);
+}
+.inp-div .inp2{
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 92%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.021);
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+.inp-div2 .inp3{
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 92%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.021);
+}
+
+.get .started{
+    margin-top: 50px;
+    margin-left: 15px;
+    width: 92%;
+    height: 50px;
+    
+}
+.started{
+    background-color:#1ab188 ;
+    font-size: 25px;
+    color: #fff;
+    
+}
